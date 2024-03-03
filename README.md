@@ -1,4 +1,4 @@
-# Signature_App_Flask
+# Signature App
 
 Hello! This is a basic Signature taking and saving app developed in Flask. It lets you take your signature and save it to your device in PNG format.
 
